@@ -1,6 +1,6 @@
 ### Hi I'm liuyuhe 👋
 
-<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=400 height=400>
+<img align="right" src="https://octodex.github.com/images/Professortocat_v2.png" width=200 height=200>
 
 <!--
 **lyh2048/lyh2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
